@@ -1,0 +1,7 @@
+__pycache__
+lightning_logs/loveda
+data/LoveDA
+geoseg/__pycache__
+geoseg/datasets/__pycache__
+tools/__pycache__
+pretrain_weights/*.pth
